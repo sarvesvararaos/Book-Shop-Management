@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class CustomerName{
 	String name;
-
 	public String getName() {
 		
 		return name;

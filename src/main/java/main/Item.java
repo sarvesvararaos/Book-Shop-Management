@@ -5,8 +5,6 @@ public class Item{
     public  void addItem(String itemName,int mrpItem){
        this.itemName=itemName;
        this.mrp=mrpItem;
-       
-
     }
 	public String getItemName() {
 		return itemName;
